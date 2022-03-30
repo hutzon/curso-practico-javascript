@@ -89,3 +89,9 @@ header h1{
     padding-left: 1.5rem;
     padding-top: 1.7rem;
 }
+
+.nav-container{
+    background-color: greenyellow;
+    font-size: 4rem;
+    height: 50rem;
+}
