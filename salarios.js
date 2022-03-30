@@ -55,7 +55,10 @@ colombia.push({
 });
 
 colombia.push({
-    name:"Joaquin",
-    salary: 4000
+    name:"Jeff",
+    salary: 3500
 });
+
+
+
 
